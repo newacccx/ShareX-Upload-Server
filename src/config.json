@@ -1,6 +1,6 @@
 {
   "key": [""],
-  "domain": "example.com",
+  "domain": "https://uploadxde-f24a8ca6cd24.herokuapp.com",
   "puploadKeyGenLength": 64,
   "public": false,
   "maxUploadSize": 50,
